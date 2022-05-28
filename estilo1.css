@@ -1,0 +1,26 @@
+*{
+	margin:5;
+	padding:5;         }
+h1 {
+	text-align: center;
+	color: black; 
+background-image: url("titu.png.");
+   }
+body {
+  height: 2000px;
+  background-image: url("fond.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  margin-left: 11px;
+  margin-right: 10px;
+  margin-top: 11px;
+  margin-bottom: 10px;
+  height: 800px;
+  
+}
+h2,p{
+
+       
+	color:#17202A;   }
